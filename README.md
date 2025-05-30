@@ -163,4 +163,4 @@ Successful Conversions: Convert sample values (55°F, 3.5°C)
 History Feature: Show history accumulation and clear functionality
 Orientation Changes: Demonstrate responsive layout adaptation
 UI Polish: Highlight animations, Material Design elements
-Code Walkthrough: Explain key widgets, state management, and validation logic
+Code Walkthrough: Explain key widgets, state management, and validation logic.
